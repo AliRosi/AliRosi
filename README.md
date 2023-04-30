@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 👋 Hi, I’m @AliRosi
+- 👀 I’m interested in Manga
+- 🌱 I’m currently learning HTML,CSS,JS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me alirosi3214@gmail.com
 <!--
 **AliRosi/AliRosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
