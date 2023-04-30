@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliRosi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 I’m currently learning HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @rossi88z (Instagram)
 
