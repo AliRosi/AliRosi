@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @AliRosi
+- 👋 Hi, I’m Ali Rosi
 - 👀 I’m interested in Manga
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on ...
